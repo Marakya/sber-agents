@@ -1,5 +1,6 @@
 ## Задание 1
 Успешный запуск
-![Простой диалог](\docs\image1.png)
+![Простой диалог](./docs/image1.png)
 
-![/stats](\docs\image2.png)
+Команда статистики - /stats
+![/stats](./docs/image2.png)
