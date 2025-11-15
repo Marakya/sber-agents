@@ -30,8 +30,7 @@ Telegram-бот для учета доходов и расходов с инте
 - LLM модели: Ollama, OpenRouter  
 
 ## Скриншот работы
-- ![Главный экран](screenshots/photo.jpg)  
-
+- ![Главный экран](./screenshots/photo.jpg)
 
 ## Облачный сервер
 - **Провайдер:** Ollama локально / OpenRouter облачно  
