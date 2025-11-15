@@ -1,0 +1,15 @@
+[project]
+name = "telegram-llm-bot"
+version = "0.1.0"
+description = "Simple Telegram bot with LLM integration"
+requires-python = ">=3.11"
+dependencies = [
+    "aiogram>=3.15.0",
+    "openai>=1.54.0",
+    "python-dotenv>=1.0.0",
+    "pydantic>=2.0.0",
+    "whisper>=1.1.10",
+    "faster-whisper>=1.2.1",
+    "pydub>=0.25.1",
+]
+
