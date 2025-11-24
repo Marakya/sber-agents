@@ -7,5 +7,3 @@ logs/
 datasets/*.json
 !datasets/.gitkeep
 
-
-09-mcp
